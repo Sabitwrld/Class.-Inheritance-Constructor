@@ -1,0 +1,15 @@
+C:\Users\nonam\source\repos\task-recap\task-recap\bin\Debug\net6.0\task-recap.exe
+C:\Users\nonam\source\repos\task-recap\task-recap\bin\Debug\net6.0\task-recap.deps.json
+C:\Users\nonam\source\repos\task-recap\task-recap\bin\Debug\net6.0\task-recap.runtimeconfig.json
+C:\Users\nonam\source\repos\task-recap\task-recap\bin\Debug\net6.0\task-recap.dll
+C:\Users\nonam\source\repos\task-recap\task-recap\bin\Debug\net6.0\task-recap.pdb
+C:\Users\nonam\source\repos\task-recap\task-recap\obj\Debug\net6.0\task-recap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nonam\source\repos\task-recap\task-recap\obj\Debug\net6.0\task-recap.AssemblyInfoInputs.cache
+C:\Users\nonam\source\repos\task-recap\task-recap\obj\Debug\net6.0\task-recap.AssemblyInfo.cs
+C:\Users\nonam\source\repos\task-recap\task-recap\obj\Debug\net6.0\task-recap.csproj.CoreCompileInputs.cache
+C:\Users\nonam\source\repos\task-recap\task-recap\obj\Debug\net6.0\task-recap.sourcelink.json
+C:\Users\nonam\source\repos\task-recap\task-recap\obj\Debug\net6.0\task-recap.dll
+C:\Users\nonam\source\repos\task-recap\task-recap\obj\Debug\net6.0\refint\task-recap.dll
+C:\Users\nonam\source\repos\task-recap\task-recap\obj\Debug\net6.0\task-recap.pdb
+C:\Users\nonam\source\repos\task-recap\task-recap\obj\Debug\net6.0\task-recap.genruntimeconfig.cache
+C:\Users\nonam\source\repos\task-recap\task-recap\obj\Debug\net6.0\ref\task-recap.dll

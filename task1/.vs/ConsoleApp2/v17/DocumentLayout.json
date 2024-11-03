@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual-studio\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A41F9B1C-0EDC-423A-A361-D4B080251066}|ConsoleApp2\\ConsoleApp2.csproj|d:\\visual-studio\\consoleapp2\\consoleapp2\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41F9B1C-0EDC-423A-A361-D4B080251066}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41F9B1C-0EDC-423A-A361-D4B080251066}|ConsoleApp2\\ConsoleApp2.csproj|d:\\visual-studio\\consoleapp2\\consoleapp2\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41F9B1C-0EDC-423A-A361-D4B080251066}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41F9B1C-0EDC-423A-A361-D4B080251066}|ConsoleApp2\\ConsoleApp2.csproj|d:\\visual-studio\\consoleapp2\\consoleapp2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41F9B1C-0EDC-423A-A361-D4B080251066}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41F9B1C-0EDC-423A-A361-D4B080251066}|ConsoleApp2\\ConsoleApp2.csproj|d:\\visual-studio\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41F9B1C-0EDC-423A-A361-D4B080251066}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Human.cs",
+              "DocumentMoniker": "D:\\visual-studio\\ConsoleApp2\\ConsoleApp2\\Human.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Human.cs",
+              "ToolTip": "D:\\visual-studio\\ConsoleApp2\\ConsoleApp2\\Human.cs",
+              "RelativeToolTip": "ConsoleApp2\\Human.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:34:57.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\visual-studio\\ConsoleApp2\\ConsoleApp2\\Student.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Student.cs",
+              "ToolTip": "D:\\visual-studio\\ConsoleApp2\\ConsoleApp2\\Student.cs",
+              "RelativeToolTip": "ConsoleApp2\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:54:13.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\visual-studio\\ConsoleApp2\\ConsoleApp2\\Teacher.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Teacher.cs",
+              "ToolTip": "D:\\visual-studio\\ConsoleApp2\\ConsoleApp2\\Teacher.cs",
+              "RelativeToolTip": "ConsoleApp2\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:54:30.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual-studio\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "D:\\visual-studio\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:51:32.27Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
